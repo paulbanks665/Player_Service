@@ -1,0 +1,16 @@
+{
+  "name": "games_service",
+  "version": "1.0.0",
+  "description": "a sandbox",
+  "main": "games_service.js",
+  "scripts": {
+    "test": "test",
+    "start": "node games_service.js"
+  },
+  "author": "paul banks",
+  "dependencies": {
+    "elasticsearch": "^12.1.3",
+    "get-json": "0.0.3",
+    "hapi": "^16.1.0"
+  }
+}
