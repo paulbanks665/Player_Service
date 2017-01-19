@@ -1,11 +1,11 @@
 {
-  "name": "games_service",
+  "name": "player_service",
   "version": "1.0.0",
   "description": "a sandbox",
-  "main": "games_service.js",
+  "main": "player_service.js",
   "scripts": {
     "test": "test",
-    "start": "node games_service.js"
+    "start": "node player_service.js"
   },
   "author": "paul banks",
   "dependencies": {
